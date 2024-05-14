@@ -37,9 +37,10 @@ header {
   padding: 100px 25px;
   display: flex;
   justify-content: center;
-  align-items: center;
   gap: 50px;
   flex-wrap: wrap;
+  align-items: center;
+
 }
 
 .header_text {
